@@ -1,9 +1,17 @@
-# Tales of Alkonost
-Java videogame as a school project
+<!-- Do not translate this -->
+<strong> Si quieres leer esta guia en español, usar: <a href="./README-ES.md"> esta liga. </a></strong>
+<!-- Do not translate this -->
+
+# Welcome to Tales of Alkonost
+
 ![Image](https://hprobertos.github.io/images/pic3.jpg)
 
+This was a project made by 2 memebers.
+
+The game was made in Java GUI as a school project
+
 I do not own most of the content used in this project like: 
-* Music 
+* Music/SFX
 * Images 
 * Public code used. 
 
